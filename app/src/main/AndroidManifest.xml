@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CatatanKeuanganPribadi">
         <activity
+            android:name=".Rafi"
+            android:exported="false" />
+        <activity
             android:name=".Jenny"
             android:exported="false" />
         <activity
