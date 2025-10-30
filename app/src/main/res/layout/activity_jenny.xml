@@ -12,6 +12,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Jenny Al zairo"
-        tools:layout_editor_absoluteX="176dp"
-        tools:layout_editor_absoluteY="320dp" />
+        tools:layout_editor_absoluteX="184dp"
+        tools:layout_editor_absoluteY="324dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NIM 062440833249"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="356dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
