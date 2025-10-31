@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CatatanKeuanganPribadi">
         <activity
+            android:name=".vepii"
+            android:exported="false" />
+        <activity
+            android:name=".vepi"
+            android:exported="false" />
+        <activity
             android:name=".Rafi"
             android:exported="false" />
         <activity
